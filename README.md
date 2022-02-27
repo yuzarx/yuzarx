@@ -1,1 +1,1 @@
-doing stuff
+[![stats](https://github-readme-stats.vercel.app/api?username=dammi-i&text_color=ECC488&bg_color=8A39E1&title_color=B667F1&show_icons=true&icon_color=ECC488&hide_border=true)](https://github.com/dammi-i)
